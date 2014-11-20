@@ -1,0 +1,4 @@
+Bag,5.00,false
+Boots,10.00,false
+Necklace,15.00,false
+Hat,8.00,false
